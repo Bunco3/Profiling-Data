@@ -1,0 +1,200 @@
+ESECUZIONE 1 INDEX path_to_version_2_0:
+
+deus@stagemalvatech:~/malva/bin$ ./malva-geno index -1 -k 31 -c 50000 -b 1 -1 ~/malva/example/reference_sarsCov2.fasta ~/malva/example/sars_cov2.vcf.gz ~/srgeno/kmc.out
+[malva-geno/Reference parsing] Execution Time 0.08915s
+[malva-geno/Reference parsing] Time elapsed 0.08932s
+[malva-geno/Reference parsing] Used CPU-time elapsed 0.07808s
+[malva-geno/Reference parsing] Maximum memory used 25Mb
+
+[malva-geno/Reference processed] Execution Time 0.0004449s
+[malva-geno/Reference processed] Time elapsed 0.0898s
+[malva-geno/Reference processed] Used CPU-time elapsed 0.0785s
+[malva-geno/Reference processed] Maximum memory used 25Mb
+
+[malva-geno/VCF parsing (Bloom Filter construction)] Execution Time 0.0001105s
+[malva-geno/VCF parsing (Bloom Filter construction)] Time elapsed 0.08994s
+[malva-geno/VCF parsing (Bloom Filter construction)] Used CPU-time elapsed 0.07862s
+[malva-geno/VCF parsing (Bloom Filter construction)] Maximum memory used 25Mb
+
+[malva-geno/Processed 5000 variants] Execution Time 113.9s
+[malva-geno/Processed 5000 variants] Time elapsed 114s
+[malva-geno/Processed 5000 variants] Used CPU-time elapsed 109.1s
+[malva-geno/Processed 5000 variants] Maximum memory used 3020Mb
+[malva-geno/Processed 10000 variants] Execution Time 123.9s
+[malva-geno/Processed 10000 variants] Time elapsed 238s
+[malva-geno/Processed 10000 variants] Used CPU-time elapsed 233s
+[malva-geno/Processed 10000 variants] Maximum memory used 3020Mb
+[malva-geno/Processed 15000 variants] Execution Time 91.54s
+[malva-geno/Processed 15000 variants] Time elapsed 329.5s
+[malva-geno/Processed 15000 variants] Used CPU-time elapsed 324.5s
+[malva-geno/Processed 15000 variants] Maximum memory used 3020Mb
+[malva-geno/Processed 15154 variants] Execution Time 45.77s
+[malva-geno/Processed 15154 variants] Time elapsed 375.3s
+[malva-geno/Processed 15154 variants] Used CPU-time elapsed 370.2s
+[malva-geno/Processed 15154 variants] Maximum memory used 3020Mb
+
+[malva-geno/BF creation complete] Execution Time 0.7726s
+[malva-geno/BF creation complete] Time elapsed 376.1s
+[malva-geno/BF creation complete] Used CPU-time elapsed 370.9s
+[malva-geno/BF creation complete] Maximum memory used 3268Mb
+
+[malva-geno/Reference BF construction] Execution Time 7.713e-05s
+[malva-geno/Reference BF construction] Time elapsed 376.1s
+[malva-geno/Reference BF construction] Used CPU-time elapsed 370.9s
+[malva-geno/Reference BF construction] Maximum memory used 3268Mb
+
+[malva-geno/Reference BF creation complete] Execution Time 0.009296s
+[malva-geno/Reference BF creation complete] Time elapsed 376.1s
+[malva-geno/Reference BF creation complete] Used CPU-time elapsed 370.9s
+[malva-geno/Reference BF creation complete] Maximum memory used 3268Mb
+
+ESECUZIONE 2 INDEX path_to_version_2_0:
+deus@stagemalvatech:~/malva/bin$ ./malva-geno index -1 -k 31 -c 50000 -b 1 -1 ~/malva/example/reference_sarsCov2.fasta ~/malva/example/sars_cov2.vcf.gz ~/srgeno/kmc.out
+[malva-geno/Reference parsing] Execution Time 0.08874s
+[malva-geno/Reference parsing] Time elapsed 0.08888s
+[malva-geno/Reference parsing] Used CPU-time elapsed 0.07298s
+[malva-geno/Reference parsing] Maximum memory used 25Mb
+
+[malva-geno/Reference processed] Execution Time 0.000448s
+[malva-geno/Reference processed] Time elapsed 0.08937s
+[malva-geno/Reference processed] Used CPU-time elapsed 0.07336s
+[malva-geno/Reference processed] Maximum memory used 25Mb
+
+[malva-geno/VCF parsing (Bloom Filter construction)] Execution Time 0.0001003s
+[malva-geno/VCF parsing (Bloom Filter construction)] Time elapsed 0.08951s
+[malva-geno/VCF parsing (Bloom Filter construction)] Used CPU-time elapsed 0.07347s
+[malva-geno/VCF parsing (Bloom Filter construction)] Maximum memory used 25Mb
+
+[malva-geno/Processed 5000 variants] Execution Time 111.4s
+[malva-geno/Processed 5000 variants] Time elapsed 111.5s
+[malva-geno/Processed 5000 variants] Used CPU-time elapsed 107.3s
+[malva-geno/Processed 5000 variants] Maximum memory used 3020Mb
+[malva-geno/Processed 10000 variants] Execution Time 111.1s
+[malva-geno/Processed 10000 variants] Time elapsed 222.6s
+[malva-geno/Processed 10000 variants] Used CPU-time elapsed 218.4s
+[malva-geno/Processed 10000 variants] Maximum memory used 3020Mb
+[malva-geno/Processed 15000 variants] Execution Time 89.28s
+[malva-geno/Processed 15000 variants] Time elapsed 311.9s
+[malva-geno/Processed 15000 variants] Used CPU-time elapsed 307.6s
+[malva-geno/Processed 15000 variants] Maximum memory used 3020Mb
+[malva-geno/Processed 15154 variants] Execution Time 46.61s
+[malva-geno/Processed 15154 variants] Time elapsed 358.5s
+[malva-geno/Processed 15154 variants] Used CPU-time elapsed 354.2s
+[malva-geno/Processed 15154 variants] Maximum memory used 3020Mb
+
+[malva-geno/BF creation complete] Execution Time 0.8906s
+[malva-geno/BF creation complete] Time elapsed 359.4s
+[malva-geno/BF creation complete] Used CPU-time elapsed 355s
+[malva-geno/BF creation complete] Maximum memory used 3268Mb
+
+[malva-geno/Reference BF construction] Execution Time 6.471e-05s
+[malva-geno/Reference BF construction] Time elapsed 359.4s
+[malva-geno/Reference BF construction] Used CPU-time elapsed 355s
+[malva-geno/Reference BF construction] Maximum memory used 3268Mb
+
+[malva-geno/Reference BF creation complete] Execution Time 0.01065s
+[malva-geno/Reference BF creation complete] Time elapsed 359.4s
+[malva-geno/Reference BF creation complete] Used CPU-time elapsed 355s
+[malva-geno/Reference BF creation complete] Maximum memory used 3268Mb
+
+_____________________________________________________________________
+_____________________________________________________________________
+ESECUZIONE 1 INDEX path_to_version_2_0 con SPLIT EXTRACT_KMERS:
+
+deus@stagemalvatech:~/malva/bin$ ./malva-geno index -1 -k 31 -c 50000 -b 1 -1 ~/malva/example/reference_sarsCov2.fasta ~/malva/example/sars_cov2.vcf.gz ~/srgeno/kmc.out
+[malva-geno/Reference parsing] Execution Time 0.08799s
+[malva-geno/Reference parsing] Time elapsed 0.08814s
+[malva-geno/Reference parsing] Used CPU-time elapsed 0.06859s
+[malva-geno/Reference parsing] Maximum memory used 25Mb
+
+[malva-geno/Reference processed] Execution Time 0.0004128s
+[malva-geno/Reference processed] Time elapsed 0.0886s
+[malva-geno/Reference processed] Used CPU-time elapsed 0.06891s
+[malva-geno/Reference processed] Maximum memory used 25Mb
+
+[malva-geno/VCF parsing (Bloom Filter construction)] Execution Time 9.946e-05s
+[malva-geno/VCF parsing (Bloom Filter construction)] Time elapsed 0.08873s
+[malva-geno/VCF parsing (Bloom Filter construction)] Used CPU-time elapsed 0.069s
+[malva-geno/VCF parsing (Bloom Filter construction)] Maximum memory used 25Mb
+
+[malva-geno/Processed 5000 variants] Execution Time 119.8s
+[malva-geno/Processed 5000 variants] Time elapsed 119.9s
+[malva-geno/Processed 5000 variants] Used CPU-time elapsed 115.2s
+[malva-geno/Processed 5000 variants] Maximum memory used 3007Mb
+[malva-geno/Processed 10000 variants] Execution Time 111.9s
+[malva-geno/Processed 10000 variants] Time elapsed 231.8s
+[malva-geno/Processed 10000 variants] Used CPU-time elapsed 227.1s
+[malva-geno/Processed 10000 variants] Maximum memory used 3007Mb
+[malva-geno/Processed 15000 variants] Execution Time 103.1s
+[malva-geno/Processed 15000 variants] Time elapsed 334.9s
+[malva-geno/Processed 15000 variants] Used CPU-time elapsed 330.1s
+[malva-geno/Processed 15000 variants] Maximum memory used 3007Mb
+[malva-geno/Processed 15154 variants] Execution Time 51.15s
+[malva-geno/Processed 15154 variants] Time elapsed 386.1s
+[malva-geno/Processed 15154 variants] Used CPU-time elapsed 381.3s
+[malva-geno/Processed 15154 variants] Maximum memory used 3007Mb
+
+[malva-geno/BF creation complete] Execution Time 0.8995s
+[malva-geno/BF creation complete] Time elapsed 387s
+[malva-geno/BF creation complete] Used CPU-time elapsed 382.1s
+[malva-geno/BF creation complete] Maximum memory used 3255Mb
+
+[malva-geno/Reference BF construction] Execution Time 5.401e-05s
+[malva-geno/Reference BF construction] Time elapsed 387s
+[malva-geno/Reference BF construction] Used CPU-time elapsed 382.1s
+[malva-geno/Reference BF construction] Maximum memory used 3255Mb
+
+[malva-geno/Reference BF creation complete] Execution Time 0.01085s
+[malva-geno/Reference BF creation complete] Time elapsed 387s
+[malva-geno/Reference BF creation complete] Used CPU-time elapsed 382.1s
+[malva-geno/Reference BF creation complete] Maximum memory used 3255Mb
+
+ESECUZIONE 2 INDEX path_to_version_2_0 con SPLIT EXTRACT_KMERS:
+
+deus@stagemalvatech:~/malva/bin$ ./malva-geno index -1 -k 31 -c 50000 -b 1 -1 ~/malva/example/reference_sarsCov2.fasta ~/malva/example/sars_cov2.vcf.gz ~/srgeno/kmc.out
+[malva-geno/Reference parsing] Execution Time 0.08809s
+[malva-geno/Reference parsing] Time elapsed 0.08824s
+[malva-geno/Reference parsing] Used CPU-time elapsed 0.06824s
+[malva-geno/Reference parsing] Maximum memory used 25Mb
+
+[malva-geno/Reference processed] Execution Time 0.0004383s
+[malva-geno/Reference processed] Time elapsed 0.08871s
+[malva-geno/Reference processed] Used CPU-time elapsed 0.06859s
+[malva-geno/Reference processed] Maximum memory used 25Mb
+
+[malva-geno/VCF parsing (Bloom Filter construction)] Execution Time 7.92e-05s
+[malva-geno/VCF parsing (Bloom Filter construction)] Time elapsed 0.08882s
+[malva-geno/VCF parsing (Bloom Filter construction)] Used CPU-time elapsed 0.06868s
+[malva-geno/VCF parsing (Bloom Filter construction)] Maximum memory used 25Mb
+
+[malva-geno/Processed 5000 variants] Execution Time 116.9s
+[malva-geno/Processed 5000 variants] Time elapsed 117s
+[malva-geno/Processed 5000 variants] Used CPU-time elapsed 113s
+[malva-geno/Processed 5000 variants] Maximum memory used 3007Mb
+[malva-geno/Processed 10000 variants] Execution Time 111.3s
+[malva-geno/Processed 10000 variants] Time elapsed 228.3s
+[malva-geno/Processed 10000 variants] Used CPU-time elapsed 224.3s
+[malva-geno/Processed 10000 variants] Maximum memory used 3007Mb
+[malva-geno/Processed 15000 variants] Execution Time 90.9s
+[malva-geno/Processed 15000 variants] Time elapsed 319.2s
+[malva-geno/Processed 15000 variants] Used CPU-time elapsed 315.2s
+[malva-geno/Processed 15000 variants] Maximum memory used 3007Mb
+[malva-geno/Processed 15154 variants] Execution Time 51.56s
+[malva-geno/Processed 15154 variants] Time elapsed 370.8s
+[malva-geno/Processed 15154 variants] Used CPU-time elapsed 366.7s
+[malva-geno/Processed 15154 variants] Maximum memory used 3007Mb
+
+[malva-geno/BF creation complete] Execution Time 0.8914s
+[malva-geno/BF creation complete] Time elapsed 371.7s
+[malva-geno/BF creation complete] Used CPU-time elapsed 367.4s
+[malva-geno/BF creation complete] Maximum memory used 3255Mb
+
+[malva-geno/Reference BF construction] Execution Time 6.887e-05s
+[malva-geno/Reference BF construction] Time elapsed 371.7s
+[malva-geno/Reference BF construction] Used CPU-time elapsed 367.4s
+[malva-geno/Reference BF construction] Maximum memory used 3255Mb
+
+[malva-geno/Reference BF creation complete] Execution Time 0.009368s
+[malva-geno/Reference BF creation complete] Time elapsed 371.7s
+[malva-geno/Reference BF creation complete] Used CPU-time elapsed 367.4s
+[malva-geno/Reference BF creation complete] Maximum memory used 3255Mb
