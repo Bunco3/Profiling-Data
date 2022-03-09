@@ -1,0 +1,67 @@
+ESECUZIONE INDEX_MAIN VERSIONE AGGIORNATA XXHASH:
+
+[malva-geno/Processed 5000 variants] Execution Time 87.67s
+[malva-geno/Processed 5000 variants] Time elapsed 87.77s
+[malva-geno/Processed 5000 variants] Used CPU-time elapsed 81.6s
+[malva-geno/Processed 5000 variants] Maximum memory used 3019Mb
+[malva-geno/Processed 10000 variants] Execution Time 81.2s
+[malva-geno/Processed 10000 variants] Time elapsed 169s
+[malva-geno/Processed 10000 variants] Used CPU-time elapsed 162.8s
+[malva-geno/Processed 10000 variants] Maximum memory used 3019Mb
+[malva-geno/Processed 15000 variants] Execution Time 73.43s
+[malva-geno/Processed 15000 variants] Time elapsed 242.4s
+[malva-geno/Processed 15000 variants] Used CPU-time elapsed 236.2s
+[malva-geno/Processed 15000 variants] Maximum memory used 3019Mb
+[malva-geno/Processed 15154 variants] Execution Time 36.31s
+[malva-geno/Processed 15154 variants] Time elapsed 278.7s
+[malva-geno/Processed 15154 variants] Used CPU-time elapsed 272.5s
+[malva-geno/Processed 15154 variants] Maximum memory used 3019Mb
+
+[malva-geno/BF creation complete] Execution Time 0.777s
+[malva-geno/BF creation complete] Time elapsed 279.5s
+[malva-geno/BF creation complete] Used CPU-time elapsed 273s
+[malva-geno/BF creation complete] Maximum memory used 3268Mb
+
+[malva-geno/Reference BF construction] Execution Time 7.281e-05s
+[malva-geno/Reference BF construction] Time elapsed 279.5s
+[malva-geno/Reference BF construction] Used CPU-time elapsed 273s
+[malva-geno/Reference BF construction] Maximum memory used 3268Mb
+
+[malva-geno/Reference BF creation complete] Execution Time 0.01298s
+[malva-geno/Reference BF creation complete] Time elapsed 279.5s
+[malva-geno/Reference BF creation complete] Used CPU-time elapsed 273.1s
+[malva-geno/Reference BF creation complete] Maximum memory used 3268Mb
+
+ESECUZIONE CALL_MAIN VERSIONE AGGIORNATA XXHASH:
+
+[malva-geno/BF weights created] Execution Time 0.35s
+[malva-geno/BF weights created] Time elapsed 5.064s
+[malva-geno/BF weights created] Used CPU-time elapsed 2.638s
+[malva-geno/BF weights created] Maximum memory used 2626Mb
+
+[malva-geno/VCF parsing and genotyping] Execution Time 0.08191s
+[malva-geno/VCF parsing and genotyping] Time elapsed 5.146s
+[malva-geno/VCF parsing and genotyping] Used CPU-time elapsed 2.701s
+[malva-geno/VCF parsing and genotyping] Maximum memory used 2640Mb
+
+[malva-geno/Processed 5000 variants] Execution Time 84.87s
+[malva-geno/Processed 5000 variants] Time elapsed 90.02s
+[malva-geno/Processed 5000 variants] Used CPU-time elapsed 83.16s
+[malva-geno/Processed 5000 variants] Maximum memory used 3571Mb
+[malva-geno/Processed 10000 variants] Execution Time 83.02s
+[malva-geno/Processed 10000 variants] Time elapsed 173s
+[malva-geno/Processed 10000 variants] Used CPU-time elapsed 166.2s
+[malva-geno/Processed 10000 variants] Maximum memory used 3571Mb
+[malva-geno/Processed 15000 variants] Execution Time 74.89s
+[malva-geno/Processed 15000 variants] Time elapsed 247.9s
+[malva-geno/Processed 15000 variants] Used CPU-time elapsed 241s
+[malva-geno/Processed 15000 variants] Maximum memory used 3571Mb
+[malva-geno/Processed 15154 variants] Execution Time 33.63s
+[malva-geno/Processed 15154 variants] Time elapsed 281.6s
+[malva-geno/Processed 15154 variants] Used CPU-time elapsed 274.6s
+[malva-geno/Processed 15154 variants] Maximum memory used 3571Mb
+
+[malva-geno/Execution completed] Execution Time 0.004524s
+[malva-geno/Execution completed] Time elapsed 281.6s
+[malva-geno/Execution completed] Used CPU-time elapsed 274.6s
+[malva-geno/Execution completed] Maximum memory used 3571Mb

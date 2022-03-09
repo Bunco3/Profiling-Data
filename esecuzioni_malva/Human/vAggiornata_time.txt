@@ -1,0 +1,23 @@
+	Command being timed: "../MALVA -e 0.001 -k 47 -r 53 -f EUR_AF -c 200 -b 8 /home/deus/genome_wide/reference/hs37d5.fa /home/deus/genome_wide/new_vcf/1kgen.eur.vcf /home/deus/genome_wide/sample/RMNISTHS_30xdownsample.fq"
+	User time (seconds): 39819.50
+	System time (seconds): 1192.13
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 11:37:04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32975524
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 16
+	Minor (reclaiming a frame) page faults: 28884755
+	Voluntary context switches: 2048180
+	Involuntary context switches: 236692
+	Swaps: 0
+	File system inputs: 1144847912
+	File system outputs: 203531016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
